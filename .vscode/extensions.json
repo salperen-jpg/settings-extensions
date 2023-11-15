@@ -1,0 +1,25 @@
+{
+  "recommendations": [
+    "rangav.vscode-thunder-client",
+    "akamud.vscode-theme-onedark",
+    "formulahendry.auto-rename-tag",
+    "HookyQR.beautify",
+    "formulahendry.code-runner",
+    "streetsidesoftware.code-spell-checker",
+    "mikestead.dotenv",
+    "dsznajder.es7-react-js-snippets",
+    "mhutchie.git-graph",
+    "vincaslt.highlight-matching-tag",
+    "glenn2223.live-sass",
+    "ritwickdey.LiveServer",
+    "shd101wyy.markdown-preview-enhanced",
+    "PKief.material-icon-theme",
+    "equinusocio.vsc-material-theme-icons",
+    "esbenp.prettier-vscode",
+    "yuichinukiyama.vscode-preview-server",
+    "syler.sass-indented",
+    "vscode-icons-team.vscode-icons",
+    "styled-components.vscode-styled-components",
+    "CoenraadS.bracket-pair-colorizer"
+  ]
+}

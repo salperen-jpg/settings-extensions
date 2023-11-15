@@ -1,0 +1,90 @@
+{
+  "workbench.colorTheme": "Atom One Dark",
+  "editor.fontSize": 17,
+  "editor.fontFamily": "CaskaydiaCove Nerd Font Mono",
+  "editor.fontLigatures": true,
+  "editor.fontWeight": 350,
+  "editor.tabSize": 1,
+  "workbench.iconTheme": "vscode-icons",
+  "editor.wordWrap": "on",
+  "terminal.integrated.defaultProfile.windows": "Windows PowerShell",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.minimap.enabled": false,
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.cursorBlinking": "expand",
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "liveServer.settings.donotVerifyTags": true,
+  "git.suggestSmartCommit": false,
+  "editor.inlineSuggest.enabled": true,
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "/./dist"
+    }
+  ],
+  "liveSassCompile.settings.compileOnWatch": true,
+  "markdown-preview-enhanced.previewTheme": "github-dark.css",
+  "vsicons.dontShowNewVersionMessage": true,
+  "terminal.integrated.profiles.windows": {
+    "PowerShell": {
+      "source": "PowerShell",
+      "icon": "terminal-powershell"
+    },
+    "Command Prompt": {
+      "path": [
+        "${env:windir}\\Sysnative\\cmd.exe",
+        "${env:windir}\\System32\\cmd.exe"
+      ],
+      "args": [],
+      "icon": "terminal-cmd"
+    },
+    "Git Bash": {
+      "source": "Git Bash"
+    },
+    "Windows PowerShell": {
+      "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+    }
+  },
+  "git.openRepositoryInParentFolders": "never",
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "reactSnippets.settings.importReactOnTop": false,
+  "terminal.integrated.cursorStyle": "line",
+  "highlight-matching-tag.styles": {
+    "opening": {
+      "left": {
+        "custom": {
+          "borderWidth": "0 0 0 2px",
+          "borderStyle": "solid",
+          "borderColor": "yellow",
+          "borderRadius": "5px",
+          "overviewRulerColor": "white"
+        }
+      },
+      "right": {
+        "custom": {
+          "borderWidth": "0 2px 0 0",
+          "borderStyle": "solid",
+          "borderColor": "yellow",
+          "borderRadius": "5px",
+          "overviewRulerColor": "white"
+        }
+      }
+    }
+  },
+  "git.confirmSync": false
+}
